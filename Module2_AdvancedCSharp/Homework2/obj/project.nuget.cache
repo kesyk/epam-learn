@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQcQB/hayoYrihlMdeDsX6Fu1+Zv9HXbHgBtiepmoGEc6KiQp577JK+Xq8ZmvPIVkTbkMwLdObZyUYc1D3j7EA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\learn\\dotnet\\epam-learn\\Module2_AdvancedCSharp\\Homework2\\Homework2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maksym_Kiiashkin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Maksym_Kiiashkin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

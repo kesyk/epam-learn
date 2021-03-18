@@ -1,0 +1,13 @@
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\bin\Debug\netcoreapp3.1\Homework2.exe
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\bin\Debug\netcoreapp3.1\Homework2.deps.json
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.json
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.dev.json
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\bin\Debug\netcoreapp3.1\Homework2.dll
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\bin\Debug\netcoreapp3.1\Homework2.pdb
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.csprojAssemblyReference.cache
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfoInputs.cache
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfo.cs
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.csproj.CoreCompileInputs.cache
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.dll
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.pdb
+C:\projects\learn\dotnet\Module2_AdvancedCSharp\Homework2\obj\Debug\netcoreapp3.1\Homework2.genruntimeconfig.cache
